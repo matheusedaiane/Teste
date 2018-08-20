@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SporTV Full HD">
+    <display-name lang="pt">SporTV Full HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sexprive.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rbaparauapebas.gif|http://www.lineup.tv.br/canais/rbatv.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
